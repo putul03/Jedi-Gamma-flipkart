@@ -21,8 +21,8 @@ public class FlipFitApplication {
         CustomerBusiness customerBusiness = new CustomerBusinessImpl();
         BookingBusiness bookingBusiness = new BookingBusinessImpl();
         NotificationBusiness notificationBusiness = new NotificationBusinessImpl();
-
-        System.out.println("FlipFit Application Started...");
+        
+        System.out.println("Flipfit application started...");
         // Client logic here
 	}
 
